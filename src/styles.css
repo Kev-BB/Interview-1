@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+}
+
+body{
+  height: 100vh;
+}
+
+dl > dd{
+  margin-top: 10px;
+}
